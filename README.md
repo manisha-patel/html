@@ -1,7 +1,7 @@
 html
 ====
 
-Deliverables of the HTML Working Group
+Deliverables of the HTML Working Group. Bugs for these deliverables are tracked via [W3C's Bugzilla](https://www.w3.org/Bugs/Public/describecomponents.cgi?product=HTML%20WG) - Github issues are not used.
 
 Commits twitter feed: <a href="https://twitter.com/HTML_Commits/">@HTML_commits</a>
 
